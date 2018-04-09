@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:fillViewport="true"
+    android:layout_weight="1">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_weight="1">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/joke1"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:layout_marginTop="30dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="\n
+Man: Among my 4 sons 3 r engineers\n
+Frnd: what about 4th one?\n
+Man: he did not study and bcum barber\n
+Frnd: y dont u throw him out?\n
+Man: bcuz he is the 1 who earns :)
+"
+
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textColor="#ef9400"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="\n
+An Engineering, MBBS  MBA student were going in a boat.
+.
+The devil appears, he says, “throw something in the sea, if I find it, I’ll kill u and if I can’t, then I’ll be your slave for life time !”\n
+.
+MBBS student throws a needle, devil finds it and kills him.\n
+.
+MBA student throws a memory card, devil finds it and kills him\n
+.
+engineering student empties his water bottle and says,\n
+.
+“come on buddy, let’s go home u have lots of assignments to do !”\n
+.
+Engineers alwayz Rockx !!!
+
+"
+
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="\n
+A cs Engg was smoking\n
+Girl: Didn't u see the warning ?\n
+Smoking is injurious to health.\n
+Engineer: We bother only about errors and not warnings.
+
+"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textColor="#faa009"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="\n
+An engineer was removing the engine parts from a racing car when he saw a famous heart surgeon in his shop… He went to him and said.. “Look at this engine… I opened its heart, took the valves out, repaired and put them back”…So why do I get such a small salary? and u get huge sums….!
+The doctor smiled at the engineer. He came close to his ear and said…. “Try the same when the engine is running.”\n
+
+
+ classic!\n
+The story doesn’t end here\n
+Engineer’s response\n
+.
+.
+.
+.
+.
+The engineer smiled back, came close to doctor’s ear and said\n
+I can pick any dead engine and make it alive . . . . . . . But can you ???
+
+
+"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textColor="#0000ff"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="\n
+Engineering Is like a....\n
+.
+.
+.
+.
+typical Indian public toilet\n
+.
+.
+People outside r desperate to go in and\n
+people inside r dying to finish n come out......!!
+
+
+"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="\n
+Once rajnikant appeared in exam of B.tech\n
+Guess what happened?\n
+.
+.
+.
+.
+
+Failed..?\n
+.
+.
+.
+.
+.
+Beta ye ENGINEERING hai.\n
+Rajni ho ya Gajni...\n
+Sabki hai BAJNI....
+
+
+"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="\n
+Bimar Engineering Student Theek\n
+Nahi Ho Raha Tha,\n
+Ek Din Uski Maa Usko Boli....\n
+Maa: Jaakar Janwar Ke Doctor Ko Dikha, To Hi
+Theek Hoga..\n
+Beta: Areey Jaanwaro Ke Doctor Ko Kyu..???\n
+.
+.
+Maa: Roz Subah Murge Ki Tarah Uth Jata Hai,\n
+Ghode Ki Tarah Bhag Ke Tution Par Jata Hai,\n
+Sher Ki Tarah Class Mein Doston Ke Sath Masti\n
+Karta Hai,\n
+Suwar Ki Tarah Yahaan-Vahaan\n
+Assignment Par Mooh Marta Hai,\n
+Gadhe Ki Tarah Submission Karta Hai,\n
+Ghar Aakar Sab Pe Kutte Ki Tarah\n
+Bhokta Hai,\n
+Raat Ko Ullu Ki Tarah Jag Ke Facebook Pe Chat\n
+Karta Hai,\n
+Bhains Ki Tarah So Jata Hai,\n
+Aur Bhigi Billi Ki Tarah 40 Marks Lata Hai, Isliye..''
+
+
+        "
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textColor="#800080"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="\n
+The 2 happiest days in engineering life..\n
+
+first day:\n
+Thank god i got it..\n
+
+And\n
+
+last day:\n
+Thank god i got out of it.
+
+"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textColor="#008000"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="\n
+While exams,\n
+Any other degree student,\n
+student 1 :  bhai ans bata\n
+student 2 : bohot bada hai yaar\n
+student 1 : chod fir koi aur bata\n
+
+Now comes our Engineering student,\n
+student 1 :  bhai ans bata\n
+student 2 : bohot bada hai yaar\n
+student 1 : bhai koi nai,tu khali topic bata diyo,baki\n
+ye tera bhai pura page bhar dega :)
+
+
+
+"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textColor="#faa009"
+            android:layout_marginBottom="30dp"/>
+
+
+
+
+
+
+
+
+    </LinearLayout>
+</ScrollView>

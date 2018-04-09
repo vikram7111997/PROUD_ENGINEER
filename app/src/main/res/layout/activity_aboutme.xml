@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:fillViewport="true"
+    android:layout_weight="1">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/me"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="30dp"
+        />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="DEVELOPED BY :- VIKRAM ARJUN SHINDE"
+        android:textColor="#008000"
+        android:textStyle="bold"
+        android:layout_marginBottom="15dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/me"
+        android:textStyle="italic"
+        android:textColor="#0b0915"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CONTACT DETAILS:"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:textColor="#faa009"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Email Id - vikram7111997@gmail.com"
+        android:paddingLeft="10dp"
+        android:textStyle="bold"
+        android:textColor="#0000ff"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Contact No. - 9604281811"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:textStyle="bold"
+        android:textColor="#ff0000"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Whatsapp No. - 9220498449"
+        android:paddingLeft="10dp"
+        android:textStyle="bold"
+        android:textColor="#800080"
+        android:layout_marginBottom="30dp"
+        />
+
+</LinearLayout>
+    </ScrollView>

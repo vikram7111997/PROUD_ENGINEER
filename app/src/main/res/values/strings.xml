@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PROUD_ENGINEER</string>
+    <string name="me">Hello guys,myself Viki.
+        Im from Navi Mumbai,Maharashtra.
+        Currently im pursuing my Computer Science Engineering degree at the Sanjay Ghodawat Institutes,
+        Kolhapur.
+        Right now im in my third year and im very much passionate about coding and developing mobile apps.
+        These are my initial days as starting a career as a software developer and am looking forward to become one of the prime coders of all time.
+        I dream of becoming an entrepreneur and having my own startup after completing my B.E.
+    </string>
+    <string name="app">Engineering is not just a word or course to study,it is an identity,it is a whole new life to live in.
+    4 years,40 subjects,400 expirements,4000 assignments,40000 hrs,a normal human being cannot do it,those superheroes are called Engineers.
+    This is what i believe about the engineering,no matter how much fun u make about us,no matter what the situation is,
+    we will always stand up n prove ourselves,and tell everyone that yes "IM A PROUD ENGINEER".
+    That is why I have created this simple app named Proud_Engineer which gives u real and fun facts about the engineering life.
+    This app is dedicated to all those and wanna be engineers out there.I spent a lot of time going through each and every images and data from the internet,filtering and then using it in my app with my own style and content.So sit out,relax and enjoy going through this app.
+    Im damn sure that u would definitely be smiling when u would be relating this to ur life.</string>
+    <string name="ack">I would like to acknowledge the fact that i do not own some of the data(both images and text)used in this app as of now,this was taken solely from the internet and any person owning this data as of now who wants me to remove it from my app can contact me and I will do the needful ASAP.</string>
+
+
+    <string name="joke1">\n
+    Bhikhari : Bhagwan k naam pe kuch de de...\n
+ENGINEER : Ye le meri B.tech ki degree rakh le.\n
+Bikhari: Tujhe chahiye to meri M.tech ki degree rakh le :)
+</string>
+
+
+</resources>

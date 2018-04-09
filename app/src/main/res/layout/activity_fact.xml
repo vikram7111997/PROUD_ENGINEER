@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:fillViewport="true"
+    android:layout_weight="1">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:background="#ffff00">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1) Nothing makes an engineer more productive than the last minute."
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textColor="#000000"
+            android:layout_marginTop="30dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2) Girls in Mechanical and Civil Department are like 404 errors. They are not and never found."
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textColor="#000000" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="3) An engineer has the power of getting up at 9.25 am and reaching the class at 9.30 am."
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textColor="#000000" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="4) There is always a hidden folder in engineer's laptop named 'study'.(if u know what i mean)"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textColor="#000000" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="5) Your family members will not consider you an engineer unless u don’t repair any home appliance."
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textColor="#000000" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="6) Making a time table is a waste of time,studying only starts a day b4 exam.(or the night before to be specific)"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textColor="#000000" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="7) No matter how late u are to the class,there is always a seat for u in the first row."
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textColor="#000000" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="8) 80% of engineer do their assignments on the due date and submit it before the person they copied from."
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="9) A brilliant engineer plan is not made in engineering labs,but made by the back benchers in the boring lectures.(dedicated to our CSE GROUP'THE BACKBENCHERS'-BHAVANNO)"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textColor="#000000" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="10) An engineers’s worst nightmare is teacher taking the class but not taking the attendance."
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textColor="#000000" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="11) Amount of money spent in photocopies over the span of 4 years will be sufficient for us to buy a new Xerox machine."
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textColor="#000000" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="12) Industrial visits in engineering colleges are more of a group picnic than a study tour."
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textColor="#000000" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="13) T-shirt and jeans are engineer’s national dress and Maggi is their national food."
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textColor="#000000" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="14) Your grades in engineering depends on the mood of the paper checker."
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textColor="#000000" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="15) If you throw a stone at a busy road in India, it will either hit a dog or an engineer."
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textColor="#000000"
+            android:layout_marginBottom="30dp"/>
+        </LinearLayout>
+    </ScrollView>

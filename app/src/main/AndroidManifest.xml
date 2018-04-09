@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.vikram.proud_engineer">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/app_logo"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/app_logo_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".options" />
+        <activity android:name=".aboutme" />
+        <activity android:name=".aboutapp" />
+        <activity android:name=".jokeimg" />
+        <activity android:name=".jokeoption" />
+        <activity android:name=".joketxt" />
+        <activity android:name=".fact"></activity>
+    </application>
+
+</manifest>
